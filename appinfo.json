@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rhuffy@me.com",
+    "longName": "School Schedule",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "icon",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "School Schedule",
+    "uuid": "625048c4-3ecc-4bfe-9bed-e8d3c9a55a94",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
